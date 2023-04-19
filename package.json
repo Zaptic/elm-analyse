@@ -1,13 +1,13 @@
 {
-  "name": "elm-analyse",
+  "name": "zaptic-elm-analyse",
   "version": "0.16.5",
   "description": "A tool that allows you analyse your Elm code and identifies deficiencies and best practices.",
   "repository": {
     "type": "git",
-    "url": "github.com/stil4m/elm-analyse"
+    "url": "github.com/Zaptic/elm-analyse"
   },
   "bugs": {
-    "url": "https://github.com/stil4m/elm-analyse/issues",
+    "url": "https://github.com/Zaptic/elm-analyse/issues",
     "email": "mstijlaart@gmail.com"
   },
   "scripts": {
